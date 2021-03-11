@@ -1,5 +1,5 @@
 #PUBLISHING WITHOUT CREDITS OR PERMISSION CAN LEAD YOU TO PAY FOR THAT
-#BY NOOB HACKERS (SUBSCRIBE US ON YOUTUBE)
+#BY NITRO HACKERS (SUBSCRIBE US ON YOUTUBE)
 #####3#3#
 check(){
 if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v1.1 2>/dev/null; then
@@ -50,9 +50,9 @@ echo -e '
       ░ ░▒  ░ ░░▒ ░       ▒   ▒▒ ░░  ░      ░░░   ░▒ ░
       ░  ░  ░  ░░         ░   ▒   ░      ░    ░    ░  
             ░                 ░  ░       ░    ░    ░  ' 
-echo -e "                  \e[92m >\e[93m By Noob Hackers \e[92m<"
-echo -e "               \e[92m>\e[93m github.com/noob-hackers \e[92m<"
-echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNOOB HACKERS \e[92m<"
+echo -e "                  \e[92m >\e[93m By NITRO Hackers \e[92m<"
+echo -e "               \e[92m>\e[93m github.com/NITRO-HACKERS \e[92m<"
+echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNITRO HACKERS \e[92m<"
 echo
 }
 men(){
@@ -72,7 +72,8 @@ then
 spams
 elif [ $opt1 = "2" ];
 then
-am start -a android.intent.action.VIEW -d https://shrinke.me/spamxcc > /dev/null 2>&1
+am start -a android.intent.action.VIEW -
+> /dev/null 2>&1
 bnr
 men
 elif [ $opt1 = "3" ];
@@ -402,7 +403,7 @@ echo -e "\e[93m
                 __/   \e[91m-*-\e[93m
               *d08b*  \e[91m'%\e[93m
               0088MM
-              *9MMP* SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[93m
+              *9MMP* SPAMX \e[91mV.1\e[92m BY NITRO HACKERS\e[93m
 
 "
 echo -ne "NUMBER: \e[0m"  
@@ -492,12 +493,12 @@ echo -e '\e[91m
                    ────▌──▐────
 '
 echo -e "\e[93m                  CALL ME \e[92mNITRO" | pv -qL 10                                                                    
-echo -e "\e[93m             IAM FROM \e[92mNOOB HACKERS" | pv -qL 10                                                                 
+echo -e "\e[93m             IAM FROM \e[92mNITRO HACKERS" | pv -qL 10                                                                 
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10            
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10                                                              
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10                                                      
+echo -e "\e[93m        MY WEBSITE:\e[92m www.NITRO-hackers.com\e[0m" | pv -qL 10                                                      
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 4.0
 bnr
