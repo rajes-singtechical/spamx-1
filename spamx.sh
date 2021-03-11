@@ -1,5 +1,5 @@
 #PUBLISHING WITHOUT CREDITS OR PERMISSION CAN LEAD YOU TO PAY FOR THAT
-#BY NOOB HACKERS (SUBSCRIBE US ON YOUTUBE)
+#BY NITRO HACKERS (SUBSCRIBE US ON YOUTUBE)
 #####3#3#
 check(){
 if wget --spider https://raw.githubusercontent.com/noob-hackers/spamx/master/update.v1.1 2>/dev/null; then
@@ -50,9 +50,9 @@ echo -e '
       ░ ░▒  ░ ░░▒ ░       ▒   ▒▒ ░░  ░      ░░░   ░▒ ░
       ░  ░  ░  ░░         ░   ▒   ░      ░    ░    ░  
             ░                 ░  ░       ░    ░    ░  ' 
-echo -e "                  \e[92m >\e[93m By Noob Hackers \e[92m<"
-echo -e "               \e[92m>\e[93m github.com/noob-hackers \e[92m<"
-echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNOOB HACKERS \e[92m<"
+echo -e "                  \e[92m >\e[93m By NITRO Hackers \e[92m<"
+echo -e "               \e[92m>\e[93m github.com/NITRO-HACKERS \e[92m<"
+echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNITRO HACKERS \e[92m<"
 echo
 }
 men(){
