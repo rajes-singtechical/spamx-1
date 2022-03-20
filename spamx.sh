@@ -406,10 +406,10 @@ echo -e "\e[93m
 
 "
 echo -ne "NUMBER: \e[0m"  
-read num
-read -s -p "ACCESS KEY: " access
-bas=`echo 'c3BhbXg=' | base64 --decode`                   
-if [[ $access = $bas ]];                                   
+read nu
+readcc
+bas=        
+if [[ $;                         
 then
 clear
 echo -e "\e[93m
